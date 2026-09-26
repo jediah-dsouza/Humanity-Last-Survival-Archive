@@ -1,0 +1,6 @@
+{
+  "name": "Last Human on Earth — Survival Archive",
+  "description": "Year 2187: Humanity's official survival archive, planetary evacuation countdown, surviving city telemetry, resource reserves, and colony embarkation registry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
