@@ -1,6 +1,6 @@
 # Humanity's Last Survival Archive 🌍
 
-> **A Cinematic Curvival Archive Landing Page set in the year 2187.**
+> **A Cinematic Survival Archive Landing Page set in the year 2187.**
 
 Humanity's Last Survival Archive is an immersive futuristic landing page built around a fictional end-of-Earth scenario. It presents the last remaining human settlements, planetary resources, population records, archived memories, and possible evacuation colonies through a cinematic terminal-style interface.
 
