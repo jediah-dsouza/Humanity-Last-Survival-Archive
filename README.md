@@ -1,7 +1,3 @@
-
-
-
-
 # Humanity's Last Survival Archive 🌍
 
 > **A Cinematic Survival Archive Landing Page set in the year 2187.**
