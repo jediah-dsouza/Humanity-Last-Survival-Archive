@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+        base: '/Humanity-Last-Survival-Archive/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
